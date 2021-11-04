@@ -1,0 +1,14 @@
+pwd                 Present Working Directory
+cd .. or ../..      Change Directory Up One Or Twice
+cd /                Change Directory To The Root
+cd ~                Take Me To The Home Directory
+ls                  List Everything I Have Here
+ls --help           Manual For 'ls' Command
+ls -l               Long Form Information List
+ls -a               Show Hidden Things List And Files
+touch .hidden-File  Create New Hidden File
+py                  Show Me Potential Programs
+nano file.txt       Open File In Nano, :wq Exit From Nano
+rm mi-File.txt      Remove File
+rm -r mi-Folder     Remove Directory
+mkdir               Create Directory
